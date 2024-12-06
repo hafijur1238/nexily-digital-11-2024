@@ -7,12 +7,12 @@ export default {
   theme: {
     extend: {
       colors: {
-        'primary': "#61A5FA",
-        'secondary': "#191A23",
+        'primary': "#61a5fa",
+        'secondary': "#282828",
         'tartiary': '#F3F3F3'
       },
       fontFamily: {
-        'primary': ["Rubik", "sans - serif"]
+        'primary': ["Exo 2", "sans-serif"]
       },
     },
   },

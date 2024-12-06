@@ -1,17 +1,17 @@
 const caseStudies = [
     {
-        title: 'Case Study 1',
-        description: 'For a local restaurant, we implemented a targeted PPC campaign that resulted in a 50% increase in website traffic and a 25% increase in sales.',
+        title: 'ERP Streamlines Employee Workflow',
+        description: 'Nexily implemented a customized ERP system to unify processes like HR, payroll, and task tracking, boosting employee productivity by 35% and enhancing collaboration across departments.',
         link: '#'
     },
     {
-        title: 'Case Study 2',
-        description: 'For a B2B software company, we developed an SEO strategy that resulted in a first page ranking for key keywords and a 200% increase in organic traffic.',
+        title: 'Automating Inventory for a Retail Business',
+        description: 'Nexily automated inventory management with real-time tracking, automated orders, and forecasting tools, reducing stock errors by 50% and improving order speed by 20%.',
         link: '#'
     },
     {
-        title: 'Case Study 3',
-        description: 'For a national retail chain, we created a social media marketing campaign that increased followers by 25% and generated a 20% increase in online sales.',
+        title: 'Growing an E-Commerce Platform',
+        description: 'Nexily helped an e-commerce startup grow its customer base by 300% with data-driven marketing, advanced analytics, and automated campaigns, increasing repeat purchases by 40%.',
         link: '#'
     },
     // Add more case studies as needed

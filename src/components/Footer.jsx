@@ -39,7 +39,7 @@ const Footer = () => {
 
                 <hr className="my-4 border-white mx-4 sm:px-6 lg:px-8" />
                 <div className="flex flex-wrap md:gap-8 text-white px-4 sm:px-6 lg:px-8 py-5">
-                    <p>@ 2024 NEXILY. All Rights Reserved.</p>
+                    <p>© 2024 NEXILY. All Rights Reserved.</p>
                     <p className="underline underline-offset-4">Privacy Policy</p>
                 </div>
             </div>

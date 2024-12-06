@@ -2,7 +2,6 @@ import { motion } from 'framer-motion';
 import React from 'react';
 import bannerImg from "../assets/banner.png";
 import variants from '../utils/variants.js';
-import LogoCarousel from './LogoCarousel';
 
 const Hero = () => {
     return (
@@ -39,12 +38,16 @@ const Hero = () => {
                             initial="hidden"
                             whileInView="visible"
                             viewport={{ amount: 0.1 }}
-                            variants={variants('bottom', 0.5)}
+                            variants={variants('top', 0.2)}
                             src={bannerImg} alt="" className="w-full h-auto rounded-md" />
                     </div>
                 </div>
                 {/* Brand Logos */}
-                <LogoCarousel />
+                {/* <div className="mt-20 md:w-1/2 mx-auto text-center">
+                    <h2 className='text-4xl text-neutralDGrey font-semibold mb-3'>Our Clients</h2>
+                    <p className='text-neutralGrey'>We have been working with some Fortune 500+ clients</p>
+                </div>
+                <LogoCarousel /> */}
             </div>
         </section>
     )

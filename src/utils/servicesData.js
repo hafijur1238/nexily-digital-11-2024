@@ -1,59 +1,59 @@
 // src/utils/services.js
 
-import SeoImage from '../assets/services/seo.png';
-import PpcImage from '../assets/services/ppc.png';
-import SocialMediaImage from '../assets/services/smm.png';
+import AnalyticsImage from '../assets/services/analytics.png';
 import ContentCreationImage from '../assets/services/content-creation.png';
 import EmailMarketingImage from '../assets/services/email-marketing.png';
-import AnalyticsImage from '../assets/services/analytics.png';
+import PpcImage from '../assets/services/ppc.png';
+import SeoImage from '../assets/services/seo.png';
+import SocialMediaImage from '../assets/services/smm.png';
 
 export const servicesData = [
     {
-        title: 'SEO Optimization',
-        description: 'Improve your website’s visibility on search engines with our SEO services.',
+        title: 'Customized ERP Solutions',
+        description: 'Providing tailored Enterprise Resource Planning systems to meet the specific requirements of businesses, ensuring efficient resource management.',
         image: SeoImage,
-        backgroundColor: 'bg-[#F3F3F3]',
-        foregroundColor: 'bg-primary',
+        backgroundColor: 'bg-[#A0E9FF]',
+        foregroundColor: 'bg-[#A0E9FF]',
         textColor: 'text-black',
     },
     {
-        title: 'PPC Advertising',
-        description: 'Boost your online presence with targeted PPC advertising campaigns.',
+        title: 'Business Automation Through Software',
+        description: 'Implementing advanced software solutions to optimize processes and enhance operational productivity.',
         image: PpcImage,
-        backgroundColor: 'bg-primary',
-        foregroundColor: 'bg-white',
-        textColor: 'text-blue-900'
+        backgroundColor: 'bg-[#89CFF3]',
+        foregroundColor: 'bg-[#89CFF3]',
+        textColor: 'text-black'
     },
     {
-        title: 'Social Media Marketing',
-        description: 'Engage your audience and grow your brand on social media platforms.',
+        title: 'Lifetime Software Support',
+        description: 'Offering comprehensive, continuous support to ensure the seamless performance of all software products and services.',
         image: SocialMediaImage,
-        backgroundColor: 'bg-green-100',
-        foregroundColor: 'bg-green-500',
-        textColor: 'text-green-900'
+        backgroundColor: 'bg-[#B9F3FC]',
+        foregroundColor: 'bg-[#B9F3FC]',
+        textColor: 'text-black'
     },
     {
-        title: 'Content Creation',
-        description: 'Create compelling content that drives engagement and conversions.',
+        title: 'Technical Advising',
+        description: 'Delivering expert guidance to address technical challenges and provide strategic insights for IT initiatives.',
         image: ContentCreationImage,
-        backgroundColor: 'bg-red-100',
-        foregroundColor: 'bg-red-500',
-        textColor: 'text-red-900'
+        backgroundColor: 'bg-[#96EFFF]',
+        foregroundColor: 'bg-[#96EFFF]',
+        textColor: 'text-black'
     },
     {
-        title: 'Email Marketing',
-        description: 'Reach your audience directly with targeted email campaigns and newsletters.',
+        title: 'System Maintenance',
+        description: 'Ensuring system reliability and efficiency through proactive and reactive maintenance services.',
         image: EmailMarketingImage,
-        backgroundColor: 'bg-purple-100',
-        foregroundColor: 'bg-purple-500',
-        textColor: 'text-purple-900'
+        backgroundColor: 'bg-[#CDFCF6]',
+        foregroundColor: 'bg-[#CDFCF6]',
+        textColor: 'text-black'
     },
     {
-        title: 'Analytics',
-        description: 'Track and analyze your website’s performance to make data-driven decisions.',
+        title: 'Data-Driven Decision Making',
+        description: 'Developing analytics-based solutions to facilitate informed and strategic decision-making.',
         image: AnalyticsImage,
-        backgroundColor: 'bg-gray-100',
-        foregroundColor: 'bg-primary',
-        textColor: 'text-gray-900'
+        backgroundColor: 'bg-[#B1F0F7]',
+        foregroundColor: 'bg-[#B1F0F7]',
+        textColor: 'text-black'
     }
 ];

@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import { CgClose } from "react-icons/cg";
 import { TbMenu2 } from "react-icons/tb";
 
@@ -20,8 +20,8 @@ const Navbar = () => {
         { name: 'About Us', href: '#about' },
         { name: 'Services', href: '#services' },
         { name: 'Use Cases', href: '#use-cases' },
-        { name: 'Team', href: '#team' },
-        { name: 'Testimonials', href: '#testimonials' }
+        // { name: 'Team', href: '#team' },
+        // { name: 'Testimonials', href: '#testimonials' }
     ]
 
     useEffect(() => {

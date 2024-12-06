@@ -7,9 +7,9 @@ const FooterContact = () => {
                 <div className="flex-1 space-y-4">
                     <button className="bg-primary text-black px-6 py-2 rounded-md font-medium">Contact</button>
                     <div className="text-white space-y-2">
-                        <p><strong>Email:</strong> contact@nexily.com</p>
-                        <p><strong>Phone:</strong> +88016 43**8 743</p>
-                        <p><strong>Address:</strong> Dhaka, Banani - 1213</p>
+                        <p><strong>Email:</strong> nexily.contact@nexily.xyz</p>
+                        <p><strong>Phone:</strong> +880 1784-449742</p>
+                        <p><strong>Address:</strong> House No: 11, 3rd Floor, Block: j, Road: N/52, Eastern Housing, Mirpur-12, Dhaka</p>
                     </div>
                 </div>
                 <div className="flex-1 bg-[#292A32] justify-center items-center p-8 rounded-md">

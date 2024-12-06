@@ -14,11 +14,9 @@ const WorkingProcess = () => {
         <section className="pt-12 bg-white">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="flex flex-col md:flex-row gap-4 mb-12">
-                    <div className="flex-shrink-0 bg-primary text-black py-6 px-16 rounded-md">
-                        <h2 className="text-2xl font-bold">Our Working Process</h2>
-                    </div>
-                    <div className="md:w-1/2">
-                        <p className="text-secondary md:w-2/3">We offer expert IT services, including software development, consulting, cloud solutions, and cybersecurity.</p>
+                    <div className="md:w-1/2 mx-auto text-center">
+                        <h2 className='text-4xl text-neutralDGrey font-semibold mb-3'>Our Working Process</h2>
+                        <p className='text-neutralGrey'>At Nexily, we provide expert IT services including software development, consulting, cloud solutions, and cybersecurity. We begin by understanding your business needs, followed by designing tailored solutions. Our team ensures seamless execution, offering ongoing support to deliver innovative, secure, and scalable technology solutions for your business.</p>
                     </div>
                 </div>
                 {/* accordian Part */}
